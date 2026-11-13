@@ -1,13 +1,13 @@
-﻿#EXTM3U aspect-ratio=221:100 url-tvg="https://iptvx.one/EPG_LITE" tvg-shift= m3uautoload=1
+#EXTM3U aspect-ratio=221:100 url-tvg="https://iptvx.one/EPG_LITE" tvg-shift= m3uautoload=1
 #EXTINF:-1 group-title="Основные" tvg-id="pervy" tvg-shift=,Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="pervy" tvg-shift=,Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="rossia1",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv",НТВ HD
 http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/213/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv",НТВ HD
@@ -24,7 +24,7 @@ http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/6039/index.m3u8
 http://42f0004a.amazzin.pw/iptv/MFNLWBN4KNEYGE/6039/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="ntv",НТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="zvezda-pl",Звезда
 https://stream3.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="tnt",ТНТ HD
@@ -104,19 +104,19 @@ http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/48
 udp://@234.30.30.29:3029
 #EXTINF:-1 group-title="Основные" tvg-id="mir",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="muztv",МУЗ-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-id="telekafe",Телекафе
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 udp://@234.30.30.56:3056
 #EXTINF:-1 group-title="Основные" tvg-logo="http://epg.one/img/2654.png",Ózbekiston 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://media.mediabay.uz/www_data/newlogos/channels/UzReport.218.png",UzReport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1015/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="http://epg.one/img2/2647.png",UZSport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://stream3.cinerama.uz/1004/tracks-v1a1a2/mono.m3u8
@@ -236,7 +236,7 @@ https://salam-mskugr-11.rutube.ru/dive/river-3-338.rutube.ru/8mhC4wSo3gNC0q1OoTV
 #EXTINF:-1 group-title="Россия" tvg-id="match-premier" tvg-rec="7" timeshift="5",Матч! Премьер HD
 http://63441366.ottolok.net/iptv/2Q4RBSN8XCUHSU/10021/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-premier" tvg-rec="7",Матч! Премьер HD
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/10021/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/10021/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-premier" tvg-rec="7",Матч! Премьер HD
 http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/10021/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-tv",Матч! HD
@@ -245,11 +245,11 @@ http://185.46.16.239:8000/Match_TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=tIsYp6TeMev79d7LUhHaeQ&e=2081593165&scheme=https
 #EXTINF:-1 group-title="Россия" tvg-id="match-football1" tvg-rec="7",Матч! Футбол 1 HD
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/222/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/222/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-football1" tvg-rec="7",Матч! Футбол 1 HD
 http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/222/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-football2",Матч! Футбол 2 HD
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/211/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/211/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-football2",Матч! Футбол 2 HD
 http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/211/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-football2",Матч! Футбол 3 HD
@@ -275,11 +275,11 @@ http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/271/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="setanta-sports-plus" tvg-rec="3",Setanta Sports 2 HD
 http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/270/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="okko-football" tvg-logo="https://iptvx.one/picons/okko-football.png",Окко Футбол HD
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/6554/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/6554/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="okko-football" tvg-logo="https://iptvx.one/picons/okko-football.png",Окко Футбол HD
 http://63441366.ottolok.net/iptv/7NUVPEQF727A6C/6554/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="okko-sport" tvg-logo="https://iptvx.one/picons/okko-sport.png" tvg-rec="3",Окко Спорт HD
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/20138/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/20138/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="okko-sport" tvg-logo="https://iptvx.one/picons/okko-sport.png" tvg-rec="3",Окко Спорт HD
 http://63441366.ottolok.net/iptv/7NUVPEQF727A6C/20138/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="match-arena",Матч! Арена HD
@@ -291,7 +291,9 @@ http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/19219/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/112/index.m3u8
+http://tv.ttk.mx:9004
+#EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/112/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru",Пятый канал
 http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/112/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru" tvg-rec="7",Пятый канал
@@ -305,19 +307,19 @@ http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/746/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl2" tvg-rec="3",Пятый Канал (+2)
 http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/746/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl2" tvg-rec="3",Пятый Канал (+2)
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/746/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/746/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl4",Пятый Канал (+4)
 http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/6025/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl4",Пятый Канал (+4)
 http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/6025/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl4",Пятый Канал (+4)
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/6025/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/6025/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl7",Пятый Канал (+7)
 http://193.25.8.59:8000/5
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl7",Пятый Канал (+7)
 http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/6040/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl7",Пятый Канал (+7)
-http://63441366.ottolok.net/iptv/2VLF3G39GK7LBH/6040/index.m3u8
+http://63441366.ottolok.net/iptv/VSDYM7AWPW6DCA/6040/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="piaty-int",Пятый канал International
 http://87.76.32.36:9102/udp/238.1.1.137:1234
 #EXTINF:-1 group-title="Россия" tvg-id="belarus2",Беларусь 2 HD
@@ -378,7 +380,7 @@ http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/9109/index.m3u8
 http://195.158.223.132:8006/Sarafan
 #EXTINF:-1 group-title="Россия" tvg-id="sarafan",Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="sarafan",Сарафан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 udp://@234.30.30.44:3044
@@ -400,7 +402,7 @@ http://tele5.megatv.fun/iptv/38GWD94EEYV4PBMHC3STZK5K/10021/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-rec="7",Матч! Премьер HD
 http://63441366.ottolok.net/iptv/CF9WU32X7AZ3KM/10021/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
-https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+http://45.132.87.69:8080/match/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч! HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:42:33:3A&stream=1031937&extension=ts&play_token=7sbIW5eksu
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv",Матч!
@@ -441,7 +443,7 @@ http://63441366.ottolok.net/iptv/2Q4RBSN8XCUHSU/207/index.m3u8
 http://pl.seetv.cc/play/268/695C44464E250A5/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="match-planeta",Матч! Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="setanta1-kz",Setanta Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://stream3.cinerama.uz/1263/tracks-v1a1a2/index.m3u8
@@ -453,7 +455,7 @@ http://194.158.222.36:6109
 #EXTINF:-1 group-title="Спорт" tvg-id="belarus5" tvg-rec="3",Беларусь 5 HD
 http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/2177/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://epg.iptvx.one/picons/futbol-tv-uz.png",Futbol TV
-https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img2/2647.png",UZSport
 https://stream3.cinerama.uz/1004/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.one/img2/2647.png",UZSport
@@ -475,7 +477,7 @@ http://2bfc56d1.akadatel.com/iptv/2CCHRDS4D8ZRLH/10058/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rossia-24",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rossia-24", Россия 24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rossia-24", Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rbk",РБК
@@ -483,7 +485,7 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rbk",РБК
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="mir-24",Мир 24
-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="mir-24",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-logo="https://flager.ru/252-tm_large_default/kupit-flag-novorossii.jpg",Новороссия ТВ HD
@@ -507,7 +509,7 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 #EXTINF:-1 group-title="Новости" tvg-id="nastoyaschee-vremia" tvg-logo="https://s4.vcdn.biz/static/f/3406762111/image.jpg",Настоящее время
 http://tele5.megatv.fun/iptv/KE2C82KZRQGEC4/986/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="euronews",EuroNews
-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="solovjinypomiot" tvg-logo="https://tvtvtv.ru/icons/solovyev_live.png",Соловьев Live HD
 http://178.212.71.253:8000/play/111/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="cctv-ru" tvg-logo="https://o.dlf.pt/dfpng/smallpng/240-2408082_cgtn-logo-hd-png-download.png",CGTN
@@ -516,11 +518,11 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:-1 group-title="Кино" tvg-id="retro-tv",Ретро ТВ
 http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv3-ru",ТВ3
-https://stream8.cinerama.uz/1435/index.m3u8
+https://stream3.cinerama.uz/1435/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="https://tvtvtv.ru/icons/pobeda.png" tvg-rec="3",Победа HD
 http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/5052/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
-https://stream8.cinerama.uz/1060/index.m3u8
+https://stream3.cinerama.uz/1060/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino",Индийское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 udp://@234.30.30.30:3030
@@ -533,7 +535,7 @@ http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd",Кинопремьера HD
 https://s04.watcher.uz/5/tracks-v1a1/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A65
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie",Киносвидание
-https://stream8.cinerama.uz/1203/index.m3u8
+https://stream3.cinerama.uz/1203/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia",Кинокомедия HD
 http://tele5.megatv.fun/iptv/KE2C82KZRQGEC4/7248/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks" tvg-logo="http://persik.tv/images/channels/logos/608.png",Киномикс HD
@@ -549,11 +551,11 @@ http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/517/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://persik.tv/images/channels/logos/10368.png",Мужское кино HD
 http://tele5.megatv.fun/iptv/KE2C82KZRQGEC4/10045/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino",Родное кино
-https://stream8.cinerama.uz/1052/index.m3u8
+https://stream3.cinerama.uz/1052/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz",Кинопоказ
-https://stream8.cinerama.uz/1057/index.m3u8
+https://stream3.cinerama.uz/1057/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino",Дом Кино
-https://stream8.cinerama.uz/1054/index.m3u8
+https://stream3.cinerama.uz/1054/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium",Дом Кино Премиум HD
 http://tele5.megatv.fun/iptv/KE2C82KZRQGEC4/911/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="https://tvtvtv.ru/icons/logo_5132.png",Феникс Плюс
@@ -589,10 +591,10 @@ http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/11031/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000",TV1000 HD
 http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/6387/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino",TV1000 Русское Кино HD
-https://stream8.cinerama.uz/1059/index.m3u8
+https://stream3.cinerama.uz/1059/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-action",TV1000 Action HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="",UZ Комедия HD
 http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/14127/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="echotv",Эхо TV
@@ -636,7 +638,7 @@ http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/14151/index.m3u8
 http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/727/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="detsky",Уникум
 http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/730/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd",СТС Kids HD
@@ -647,7 +649,7 @@ http://s7.merlive.am/Multilandia/index.m3u8
 https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="gulli-girl",Gulli Girl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+https://stream3.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="karusel",Карусель
 http://s7.merlive.am:80/Karusel/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-hd",Nickelodeon HD
@@ -746,7 +748,7 @@ http://63441366.ottolok.net/iptv/2Q4RBSN8XCUHSU/2414/index.m3u8
 http://45.159.94.49:8080/play/live.php?mac=00:1A:79:10:DB:06&stream=869598&extension=ts&play_token=fv2Ci2ejqg
 
 #EXTINF:-1 group-title="М!П" tvg-id="match-premier" tvg-rec="7" tvg-rec="7",Матч! Премьер HD 
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/10021/index.m3u8
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/10021/index.m3u8
 #EXTINF:-1 group-title="М!П" tvg-id="match-premier" tvg-rec="7" tvg-rec="7",Матч! Премьер HD
 http://63441366.ottolok.net/iptv/7TLM6FFAYGGL4N/10021/index.m3u8
 #EXTINF:-1 group-title="М!П" tvg-id="match-premier" tvg-rec="7" tvg-rec="7",Матч! Премьер HD
@@ -786,9 +788,9 @@ http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/63626/hlsx/pl.m3u8
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/63626/hls/pl.m3u8
 
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/271/index.m3u8
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/271/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/6541/index.m3u8
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/6541/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
 http://zxfjaukj.akciatv.ru/iptv/7TLM6FFAYGGL4N/271/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
@@ -806,7 +808,7 @@ http://63441366.ottolok.net/iptv/PRSR9LHDDY6XNX/271/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
 http://63441366.ottolok.net/iptv/PRSR9LHDDY6XNX/6541/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/6543/index.m3u8
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/6543/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
 http://zxfjaukj.akciatv.ru/iptv/7TLM6FFAYGGL4N/6543/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
@@ -816,7 +818,7 @@ http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/6543/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Sports 1 HD
 http://63441366.ottolok.net/iptv/PRSR9LHDDY6XNX/6543/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-kz" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Qazaqstan HD
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/2399/index.m3u8
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/2399/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-kz" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Qazaqstan HD
 http://zxfjaukj.akciatv.ru/iptv/7TLM6FFAYGGL4N/2399/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-kz" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Qazaqstan HD
@@ -826,7 +828,7 @@ http://63441366.ottolok.net/iptv/MFNLWBN4KNEYGE/2399/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-kz" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4498.png",Setanta Qazaqstan HD
 http://63441366.ottolok.net/iptv/PRSR9LHDDY6XNX/2399/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports-plus" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4499.png",Setanta Sports 2 HD
-http://63441366.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/270/index.m3u8
+http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/270/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports-plus" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4499.png",Setanta Sports 2 HD
 http://63441366.ottolok.net/iptv/7TLM6FFAYGGL4N/270/index.m3u8
 #EXTINF:-1 group-title="Setanta" tvg-id="setanta-sports-plus" tvg-rec="3" tvg-logo="https://beeline.kz/binaries/content/gallery/about/beetv_logos/last/4499.png",Setanta Sports 2 HD
