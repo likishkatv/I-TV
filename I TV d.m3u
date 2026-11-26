@@ -736,29 +736,25 @@ https://bsttv.bonus-tv.ru/cdn/kurai/tracks-v1a1/mono.ts.m3u8
 https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер HD
-http://i511hq.xyz:80/1FNMX71HRSW6714/abdtR9xbVg/259158
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:CD:6D&stream=1031935&extension=ts&play_token=PXv5NzKYWD
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер HD
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8 
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер HD
-http://hamopen.xyz:80/live/6QG4AK3/RlX70RgvSm/259158.ts
+http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер
-http://i511hq.xyz:80/LFS4DB4H3LSJ545/EQ3g67AnLx/259158
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=1031935&extension=ts&play_token=3JnjcwsilD
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier" tvg-rec="7",Матч! Премьер HD
 http://63441366.ottolok.net/iptv/2Q4RBSN8XCUHSU/10021/index.m3u8
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер
-http://pl.seetv.cc/play/37/695C44464E250A5/mpegts
+http://tv.ttk.mx:10000
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер HD
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:42:33:3A&stream=1031935&extension=ts&play_token=9h8I5MT3zK
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=1031935&extension=ts&play_token=3JnjcwsilD
+http://line.cloud-ott.net:80/play/live.php?mac=00:1A:79:82:71:24&stream=1031935&extension=ts&play_token=skRWsD82o1
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер HD
-http://scandiliptv.com:80/MAGZRJXB6E/Zxzk7LajKZ/259158
-#EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier",Матч! Премьер
-http://gr.seetv.cc/play/250/695C44464E250A5/video.m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:42:2F:BB&stream=1031935&extension=ts&play_token=JYzvYIeap7
 #EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier" tvg-rec="7",Матч! Премьер HD
 http://63441366.ottolok.net/iptv/2Q4RBSN8XCUHSU/2414/index.m3u8
-#EXTINF:-1 group-title="Матч! Премьер" tvg-id="match-premier" tvg-rec="7",Матч! Премьер HD
-http://45.159.94.49:8080/play/live.php?mac=00:1A:79:10:DB:06&stream=869598&extension=ts&play_token=fv2Ci2ejqg
 
 #EXTINF:-1 group-title="М!П" tvg-id="match-premier" tvg-rec="7" tvg-rec="7",Матч! Премьер HD 
 http://63441366.ottolok.net/iptv/Z5MTMA99SKQMGV/10021/index.m3u8
@@ -1732,4 +1728,3 @@ http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&
 http://127.0.0.1:6878/ace/getstream?id=c4d20e29581e7b86ee06b2158d8b1f5c7adf8c19&pid=44786
 #EXTINF:-1 group-title="Acestream" tvg-logo="http://epg.one/img/1755.png",НТВ Стиль
 http://127.0.0.1:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&pid=22622
-
