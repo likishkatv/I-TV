@@ -301,8 +301,6 @@ http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/112/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru" tvg-rec="7",Пятый канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl2" tvg-rec="3",Пятый Канал (+2)
-http://vs6.cdn.mrf.tvime.ru/5tv_URAL/video.m3u8
-#EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl2" tvg-rec="3",Пятый Канал (+2)
 http://63441366.ottolok.net/iptv/3DQSZ4MNE3D4K9/746/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-id="5kanal-ru-pl2" tvg-rec="3",Пятый Канал (+2)
 http://63441366.ottolok.net/iptv/KE2C82KZRQGEC4/746/index.m3u8
@@ -498,7 +496,7 @@ http://31.131.136.4:8001/play/e00h
 #EXTINF:-1 group-title="Новости" tvg-logo="http://online-red.com/images/tv/lugansk-24.png",Луганск 24
 http://91.207.115.228:9001/play/a0b8/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="izvestia" tvg-logo="https://epg.iptvx.one/picons/izvestia.png",Известия HD
-http://stream.tvbelgorod.ru:8080/izvestiya/index.m3u8
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="izvestia" tvg-logo="https://picon.pp.ua/izvestia.png",Известия
 http://85.172.79.221:36037/live/iz/playlist_iz.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="izvestia" tvg-logo="https://www.oreol.tv/img/bez_nazvaniya.jpg",Известия
